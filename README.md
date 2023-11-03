@@ -1,1 +1,1 @@
-# CLI app leveraging Python and Jmeter to Load test an endpoint
+# CLI script leveraging Python and Jmeter to Load test an endpoint
